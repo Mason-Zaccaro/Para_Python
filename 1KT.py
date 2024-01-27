@@ -7,7 +7,7 @@ while True:
     if answer == "ПОКА!":
         goodbuy += 1
 
-        if goodbuy == 3:
+        if goodbuy == 2:
             print("ДО СВИДАНИЯ, МИЛЫЙ!")
             break
         else:
